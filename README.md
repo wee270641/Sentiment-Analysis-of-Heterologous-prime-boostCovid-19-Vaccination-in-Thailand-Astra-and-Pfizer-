@@ -1,4 +1,4 @@
-# Sentiment Analysis on Heterologous prime-boost Covid-19 Vaccination in Thailand
+# Sentiment Analysis on Heterologous Prime-Boost Covid-19 Vaccination in Thailand
 
 In this project, we aims to do a sentiment analysis on heterologous prime-boost covid-19 vaccines on the Twitter platform due to the insufficient vaccines situation in Thailand.
 
